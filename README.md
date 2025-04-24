@@ -56,4 +56,4 @@ This project implements a **16-bit barrel shifter** using a multiplexer-based st
 ## Notes
 
 - The design ensures clean and hardware-efficient shifting.
-- Future extensions could support arithmetic shifting or rotation modes.
+- Future extensions could support rotation modes.
